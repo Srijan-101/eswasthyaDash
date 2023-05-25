@@ -4,7 +4,7 @@ import PatientsInfo from "./PatientsInfo";
 const Home = () => {
     return (
 
-         <PatientsInfo/>
+        <h1> Home </h1>
        
     )
 }
